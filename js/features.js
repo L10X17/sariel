@@ -194,7 +194,7 @@
 
     function _createAudio() {
         if (_audio) return _audio;
-        _audio = new Audio(SRC);
+        _audio = new Audio(https://github.com/L10X17/-/blob/main/%E7%9F%AD%E7%A9%BA%E7%99%BD.m4a);
         _audio.loop   = true;
         _audio.volume = 0.01;
         _audio.preload = 'auto';
